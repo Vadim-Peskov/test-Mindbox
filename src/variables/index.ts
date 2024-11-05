@@ -1,0 +1,6 @@
+export const bg1 = '#e9e9e9'
+export const colorActive1 = '#5074a0'
+export const colText1 = '#545454'
+export const colText2 = '#929292'
+export const colTextDisable = '#bfbfbf'
+export const colBorder = 'rgba(204, 204, 204, 0.4)'
